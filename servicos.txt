@@ -1,0 +1,2 @@
+Cliente: Victor | Veículo: FZ 15 | Serviço: Troca de óleo | Valor: 50.00
+Cliente: João | Veículo: Fan 160 | Serviço: Remendo de pneu dianteiro | Valor: 25.00
